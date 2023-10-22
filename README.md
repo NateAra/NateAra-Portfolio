@@ -1,3 +1,1 @@
-# Portfolio
-
-![Initial Project Sketch](/portfolio/public/Portfolio.png)
+# My Portfolio
